@@ -1,1 +1,1 @@
-Folder coontains codes using variables, else, if and while statements
+This folder contains codes using variables, if else and while statements

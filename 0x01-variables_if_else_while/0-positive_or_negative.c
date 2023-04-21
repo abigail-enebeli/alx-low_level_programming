@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
-* main - given  number is returned either  positive negative or equal to zero
+* main - given  number prints  positive  negative zero
 * Return: 0
 */
 
