@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
-* main -scripts Print single numbers of base 10.
+* main - script Prints all single numbers of base 10.
 * Return: 0
 */
 
@@ -11,7 +11,7 @@ int main(void)
 {
 int num;
 
-for (num = 48 ; num < 58  num++)
+for (num = 50 ; num < 78 ; num++)
 {
 putchar(num);
 }
